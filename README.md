@@ -1,12 +1,10 @@
-<a href="https://github.com/zhang-luming">
-    <img
-        align="right"
-        src="https://github-stats-extended.vercel.app/api?username=zhang-luming&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
-        alt="GitHub Stats"
-    />
-</a>
-
 ## 🍓 About Me
+
+<img
+  align="right"
+  width="420"
+  src="https://github-stats-extended.vercel.app/api?username=zhang-luming&rank_icon=github&include_all_commits=true&theme=jolly"
+/>
 
 - 🤖 在机器人蒸蒸日上的时代，干了四年小车 🚗
 - 🔭 主要使用：**C++ / Python / ROS2**
