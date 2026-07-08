@@ -3,8 +3,6 @@
        src="https://github-stats-extended.vercel.app/api?username=zhang-luming&count_private=true&show_icons=true" />
 </a>
 
-https://github-stats-extended.vercel.app/api/top-langs?username=zhang-luming&langs_count=4&theme=ambient_gradient
-
 🍓 **About Me**
 
 - 🤖 在机器人蒸蒸日上的时代，干了四年小车 🚗
