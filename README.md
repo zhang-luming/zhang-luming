@@ -1,6 +1,9 @@
-<a href="#">
-  <img align="right"
-       src="https://github-stats-extended.vercel.app/api?username=zhang-luming&count_private=true&show_icons=true" />
+<a href="https://github.com/zhang-luming">
+    <img
+        align="right"
+        src="https://github-stats-extended.vercel.app/api?username=zhang-luming&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"
+        alt="GitHub Stats"
+    />
 </a>
 
 🍓 **About Me**
