@@ -1,5 +1,6 @@
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=zhang-luming&count_private=true&show_icons=true" />
+  <img align="right"
+       src="https://github-stats-extended.vercel.app/api?username=zhang-luming&count_private=true&show_icons=true" />
 </a>
 
 🍓 **About Me**
