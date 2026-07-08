@@ -1,5 +1,6 @@
 <img
   align="right"
+  width="420"
   src="https://github-stats-extended.vercel.app/api?username=zhang-luming&rank_icon=github&include_all_commits=true&theme=jolly"
   alt="GitHub Stats"
 />
